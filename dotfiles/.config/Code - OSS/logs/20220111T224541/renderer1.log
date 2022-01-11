@@ -1,0 +1,12 @@
+[2022-01-11 22:45:50.146] [renderer1] [info] Starting extension host with pid 83846.
+[2022-01-11 22:45:50.147] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 49 ms.
+[2022-01-11 22:45:50.237] [renderer1] [error] Error: Unable to read file '/home/ricky/.alacritty/alacritty.yml' (Error: Unable to resolve nonexistent file '/home/ricky/.alacritty/alacritty.yml')
+    at i.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:143410)
+    at i.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:147201)
+    at i.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:143104)
+    at async n.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:34632)
+    at async n.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:33032)
+    at async n.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2342:32680)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2544:16967
+[2022-01-11 22:45:52.488] [renderer1] [error] [Extension Host] (node:83846) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)

@@ -1,0 +1,8 @@
+[2022-01-11 10:48:38.963] [renderer1] [info] Starting extension host with pid 5478.
+[2022-01-11 10:48:38.965] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 42 ms.
+[2022-01-11 10:48:39.921] [renderer1] [error] [Extension Host] (node:5478) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-11 10:49:09.995] [renderer1] [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/home/ricky/.config/i3status/config' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/ricky/.config/i3status/config') file:///home/ricky/.config/i3status/config
+[2022-01-11 10:49:17.528] [renderer1] [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///home/ricky/.config/i3status/config
+[2022-01-11 10:49:21.936] [renderer1] [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/home/ricky/.config/i3status/config' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/ricky/.config/i3status/config') file:///home/ricky/.config/i3status/config
+[2022-01-11 10:49:23.517] [renderer1] [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///home/ricky/.config/i3status/config

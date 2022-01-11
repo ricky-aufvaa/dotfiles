@@ -1,0 +1,5 @@
+[2022-01-11 16:44:45.245] [renderer1] [info] Starting extension host with pid 5629.
+[2022-01-11 16:44:45.246] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 48 ms.
+[2022-01-11 16:44:47.311] [renderer1] [error] [Extension Host] (node:5629) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-11 16:49:04.337] [renderer1] [error] [text file model] handleSaveError(198) - exit - resulted in a save error: Error: Unable to write file '/home/ricky/.config/i3/config' (Error: File Modified Since) file:///home/ricky/.config/i3/config

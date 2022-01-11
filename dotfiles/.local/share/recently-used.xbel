@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ricky/Downloads/wallpaper.jpeg" added="2022-01-11T08:24:41.280901Z" modified="2022-01-11T08:24:41.731466Z" visited="2022-01-11T08:24:41.280904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-11T08:24:41.731461Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ricky/Downloads/garden-house.png" added="2022-01-11T08:25:29.561544Z" modified="2022-01-11T08:25:29.999599Z" visited="2022-01-11T08:25:29.561547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-11T08:25:29.999596Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ricky/Downloads/wallpaperflare.com_wallpaper.jpg" added="2022-01-11T09:43:46.868247Z" modified="2022-01-11T09:43:46.868267Z" visited="2022-01-11T09:43:46.868249Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-11T09:43:46.868257Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ricky/Downloads/wallpaperflare.com_wallpaper(1).jpg" added="2022-01-11T09:43:53.102895Z" modified="2022-01-11T09:43:53.102905Z" visited="2022-01-11T09:43:53.102896Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-11T09:43:53.102900Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ricky/Downloads/YosemiteSanFranciscoFont-master.zip" added="2022-01-11T10:19:22.744689Z" modified="2022-01-11T10:19:22.744700Z" visited="2022-01-11T10:19:22.744691Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-11T10:19:22.744695Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ricky/Downloads/hack.zip" added="2022-01-11T15:03:38.772271Z" modified="2022-01-11T15:03:38.772280Z" visited="2022-01-11T15:03:38.772272Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-11T15:03:38.772275Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
