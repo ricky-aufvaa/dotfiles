@@ -1,0 +1,11 @@
+[2022-01-12 23:06:38.856] [exthost] [info] Extension host with pid 6360 started
+[2022-01-12 23:06:39.153] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-12 23:06:39.161] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-12 23:06:39.213] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2022-01-12 23:06:40.483] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-12 23:06:40.577] [exthost] [info] Eager extensions activated
+[2022-01-12 23:06:40.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 23:06:47.793] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-01-12 23:06:56.353] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10744
+[2022-01-12 23:10:10.891] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-12 23:10:11.903] [exthost] [info] Extension host with pid 6360 exiting with code 0

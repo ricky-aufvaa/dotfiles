@@ -1,0 +1,138 @@
+
+   
+/* background */
+body{
+    background: url(/cpp/Web\ dev/img/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    }
+    .left{
+        /* border: 2px solid green ; */
+        left: 5px;
+        top: 5px;
+        position: absolute;
+        display: inline-block;
+    }
+    .logo img{
+        width: 100px;
+        filter: invert(100%);
+        
+    }
+    .logo div{
+        text-align: center;
+        position: absolute;
+        top: 80%;
+        left: 10%;
+    }
+
+
+   
+   
+    .mid{
+        display: flex;
+        justify-content: center;
+        /* width:max-content; */
+        /* border: 2px solid blue ; */
+        /* display: inline-block; */
+        /* display: block; */
+        /* width: 33%; */
+        /* margin: 10px auto; */
+        /* border-radius: 5px; */
+    
+        
+    }
+    .nav{
+        padding: 0 ;
+        /* border: 2px solid red; */
+        /* text-align: center; */
+        /* margin: 0px 0px; */
+        display: flex;
+        list-style: none;
+        flex-wrap: wrap;
+    }
+    .nav li{
+        /* display: flex; */
+        /* border: 2px solid red; */
+        /* flex-direction: column; */
+        padding: 8px;
+        
+    }
+    .nav a{
+        text-decoration: none;
+        color: white;
+
+    }
+    .nav a:hover{
+        text-decoration: underline;
+        color: grey;
+    }
+
+    .right{
+        /* border: 2px solid red ; */
+        display: inline-block;
+        position: absolute;
+        right: 30px;
+        top: 10px;
+        }
+    .btn{
+        filter: invert(200%);
+        /* color: white; */
+        /* background-color: black; */
+        margin: 4px;
+
+    }
+
+    .container{
+        border: 2px solid #f0d2df;
+        display: flex;
+        margin: 100px 168px;
+        padding: 50px 15px;
+        width: 40%;
+        border-radius: 5px;
+        flex-wrap: nowrap;
+        background-color: #ae9d9d1f;
+    }
+    .container h1{
+        text-align: center;
+        padding: 0px;
+        margin: auto 50px;
+    }
+    .input{
+        /* filter: invert(100%); */
+/* border: 2px solid green; */
+        margin: 10px auto;
+        text-align: center;
+        width: fit-content;
+        
+    }
+    .input input{
+        /* font-family: 'Baloo Bhai', cursive; */
+        text-align: center;
+        display: block;
+        width: 200px;
+        padding: 10px;
+        border: 2px solid black;
+        margin: 11px auto;
+        font-size: 15px;
+        background-color: #2d2c2c6e;
+        color: white;
+        border-radius: 8px;
+        
+        
+    }
+    form{
+        /* border: 2px solid red; */
+        width: 300px;
+        height: 300px;
+        margin: 0px auto;
+    }
+    .submit{
+        margin: 0px 90px;
+        text-align: center;
+        filter: invert(100%);
+        /* width: 50%s; */
+        
+    }
+
+

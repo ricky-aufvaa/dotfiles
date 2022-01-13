@@ -3,6 +3,33 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/ricky/VS%20code"
+            },
+            {
+                "fileUri": "file:///home/ricky/.config/alacritty/alacritty.yml"
+            },
+            {
+                "fileUri": "file:///tmp/mozilla_ricky0/alacritty.yml"
+            },
+            {
+                "fileUri": "file:///tmp/mozilla_ricky0/xinitrc"
+            },
+            {
+                "fileUri": "file:///home/ricky/Downloads/config"
+            },
+            {
+                "fileUri": "file:///home/ricky/.config/alacritty/alacritty.conf"
+            },
+            {
+                "fileUri": "file:///home/ricky/alacritty/alacritty.yml"
+            },
+            {
+                "fileUri": "file:///home/ricky/.config/i3status/configold"
+            },
+            {
+                "fileUri": "file:///home/ricky/.config/i3status/config"
+            },
+            {
                 "fileUri": "file:///home/ricky/.zshrc"
             },
             {
@@ -13,9 +40,6 @@
             },
             {
                 "fileUri": "file:///home/ricky/cur_bg.txt"
-            },
-            {
-                "fileUri": "file:///home/ricky/.config/i3status/config"
             }
         ]
     },
@@ -60,6 +84,107 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/home/ricky/VS code",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/VS code"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/.config/alacritty/alacritty.yml",
+                                        "path": "/home/ricky/.config/alacritty/alacritty.yml",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/alacritty/alacritty.yml"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///tmp/mozilla_ricky0/alacritty.yml",
+                                        "path": "/tmp/mozilla_ricky0/alacritty.yml",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/tmp/mozilla_ricky0/alacritty.yml"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///tmp/mozilla_ricky0/xinitrc",
+                                        "path": "/tmp/mozilla_ricky0/xinitrc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/tmp/mozilla_ricky0/xinitrc"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/Downloads/config",
+                                        "path": "/home/ricky/Downloads/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/config"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/.config/alacritty/alacritty.conf",
+                                        "path": "/home/ricky/.config/alacritty/alacritty.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/alacritty/alacritty.conf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/alacritty/alacritty.yml",
+                                        "path": "/home/ricky/alacritty/alacritty.yml",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/alacritty/alacritty.yml"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/.config/i3status/configold",
+                                        "path": "/home/ricky/.config/i3status/configold",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/i3status/configold"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/.config/i3status/config",
+                                        "path": "/home/ricky/.config/i3status/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/i3status/config"
+                                },
+                                {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
@@ -80,39 +205,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config/i3blocks/i3blocks.conf"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ricky/.config/i3/config",
-                                        "path": "/home/ricky/.config/i3/config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/i3/config"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ricky/cur_bg.txt",
-                                        "path": "/home/ricky/cur_bg.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/cur_bg.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ricky/.config/i3status/config",
-                                        "path": "/home/ricky/.config/i3status/config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/i3status/config"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -159,7 +251,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -632,8 +725,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -642,8 +734,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1528,15 +1619,16 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/ricky/.config/Code - OSS/Backups/1641878316147",
+            "backupPath": "/home/ricky/.config/Code - OSS/Backups/1642009516090",
             "uiState": {
                 "mode": 1,
-                "x": 689,
-                "y": 46,
-                "width": 666,
-                "height": 711
+                "x": 2,
+                "y": 20,
+                "width": 1362,
+                "height": 725
             }
         },
         "openedWindows": []
-    }
+    },
+    "pickerWorkingDir": "/home/ricky"
 }

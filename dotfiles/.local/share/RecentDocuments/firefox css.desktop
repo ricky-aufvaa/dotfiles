@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=firefox css
+Type=Link
+URL[$e]=file:$HOME/Downloads/firefox css
+X-KDE-LastOpenedWith=org.kde.ark

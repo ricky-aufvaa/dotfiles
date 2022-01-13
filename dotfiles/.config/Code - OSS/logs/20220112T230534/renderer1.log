@@ -1,0 +1,7 @@
+[2022-01-12 23:05:45.016] [renderer1] [info] Starting extension host with pid 5937.
+[2022-01-12 23:05:45.018] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 67 ms.
+[2022-01-12 23:05:49.522] [renderer1] [error] [Extension Host] (node:5937) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-12 23:05:52.435] [renderer1] [warning] {}
+[2022-01-12 23:05:54.219] [renderer1] [info] Enabling inspect port on extension host with pid 5937.
+[2022-01-12 23:05:54.515] [renderer1] [warning] {}

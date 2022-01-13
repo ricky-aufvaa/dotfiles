@@ -1,0 +1,34 @@
+[2022-01-12 23:05:50.067] [exthost] [info] Extension host with pid 5937 started
+[2022-01-12 23:05:50.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-12 23:05:50.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-12 23:05:50.669] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2022-01-12 23:05:55.369] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-12 23:05:55.384] [exthost] [error] Activating extension vscode.github failed due to an error:
+[2022-01-12 23:05:55.384] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at n.dispose (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9012)
+	at b.terminate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:694)
+	at o (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32681)
+	at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30296)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2022-01-12 23:05:55.384] [exthost] [info] Eager extensions activated
+[2022-01-12 23:05:55.385] [exthost] [error] Activating extension vscode.merge-conflict failed due to an error:
+[2022-01-12 23:05:55.385] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.x.<computed>.F.charCodeAt.x.<computed> (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at w._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11823)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9242)
+	at l._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:88494)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:88176
+	at Array.map (<anonymous>)
+	at l._activateExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:88164)
+	at l.activateById (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:85762)
+	at w._activateById (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10244)
+	at w._activateOneStartupFinished (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:15441)
+	at w._activateAllStartupFinished (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:15812)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:16305
+[2022-01-12 23:05:56.382] [exthost] [info] Extension host with pid 5937 exiting with code 0

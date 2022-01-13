@@ -1,0 +1,10 @@
+[2022-01-12 23:10:37.917] [exthost] [info] Extension host with pid 7042 started
+[2022-01-12 23:10:38.359] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-12 23:10:38.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-12 23:10:38.439] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2022-01-12 23:10:39.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-12 23:10:39.115] [exthost] [info] Eager extensions activated
+[2022-01-12 23:10:39.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-12 23:10:44.105] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-01-12 23:10:47.550] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-12 23:10:48.559] [exthost] [info] Extension host with pid 7042 exiting with code 0

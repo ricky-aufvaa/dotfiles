@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: rgb(204, 147, 147);
+            background-image: url(http://www.heavymetal.com/wp-content/uploads/2016/04/1uSuB7r.jpg);
+            /* background-position: center; */
+            /* background-origin: content-box; */
+            /* padding-top: 590px; */
+            background-size: cover;
+            background-position-y: -280px;
+            /* margin-top: 590px; */
+            background-repeat: no-repeat;
+        }
+
+         #ranchi {
+            font-family: cursive;
+            /* margin-top: 500px; */
+            /* margin-bottom: 500px; */
+            /* clear: left; */
+            font-size: 30px;
+            text-align: center;
+            color: #17191a;
+            background-color: #9ddaea;
+            width: 10em;
+            padding: 10px;
+
+
+            /* margin-left: 1037px; */
+
+            margin: auto;
+            /* margin-right: -250px; */
+            border-radius: 40px;
+            clear: left;
+        } 
+
+
+
+        .summary {
+
+            margin-top: 30%;
+            font-size: 30px;
+            /* background-position: bottom; */
+
+            font-family: monospace;
+            font-weight: bolder;
+            color: rgb(104, 4, 37);
+            text-align: center;
+            background-color: #f2e6a6;
+            ;
+            margin-left: 40px;
+            /* box-sizing: border-box;    */
+        }
+
+        .details {
+            background-color: #dbab81;
+            text-align: left;
+        }
+
+        .button {
+            background-color: rgb(83, 105, 102);
+            color: rgb(0, 0, 0);
+            font-size: 31px;
+            font-weight: bolder;
+            margin-left: 40px;
+            border-radius: 5px;
+        }
+
+        .button:hover {
+            background-color: rgb(164, 196, 191);
+            font-size: 33px;
+        }
+
+        .button:visited {
+            background-color: violet;
+        }
+        .navbar{
+            background-color: #1e4f53;
+            border-radius: 70px;
+            
+        }
+        
+        .navbar li{
+        /* inline flex changed my horizontal list to vertical */
+            display: inline-flex;
+            /* float: left; */
+            /* overflow: visible; */
+            /* this  removes the dots of the list */
+            list-style: none;
+            padding: 3px 27px;
+            margin: 10px;
+            box-sizing: border-box;
+            motion: none;
+            
+        }
+        .navbar a{
+            color: #ff8504;
+            font-size: 27px;
+            /* this removes the underline from links  */
+            box-sizing: border-box;
+            text-decoration: none;
+        }
+        .navbar a:hover{
+            font-size: 28px;
+            color:antiquewhite;
+        }
+        .search{float: right
+            ;
+            padding: 15px 95px;
+            
+        }
+        .navbar input{
+            font-size: 20px;
+            text-align: center;
+            border-radius: 90px;
+            color: #f7f4f2;
+            font-weight: bolder;
+            background-color: #4d4b49;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar">
+    <header>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Philosophy</a></li>
+            <li><a href="#">Art</a></li>
+            <li><a href="#">Science</a></li>
+            <!-- <li></li> -->
+            <div class="search">
+            <input type="text" name="search" id="search" placeholder="Search this website">    
+            </div>
+        </ul>
+    </nav>
+</header>
+
+    <!-- <h3><a href="https://harpercollins.co.in/wp-content/uploads/2016/01/Khushwant-Singh.jpg" target="blank">Who am I?</a></h3> -->
+
+    <h5 id="ranchi">I'm from ranchi.</h5>
+
+    <summary class="summary">Know more about
+        <details class="details">
+            <h5>am from Ranchi and I'm 21 currently.</h5>
+        </details>
+    </summary>
+
+    <button class="button">Contact me</button>
+
+</body>
+
+</html>

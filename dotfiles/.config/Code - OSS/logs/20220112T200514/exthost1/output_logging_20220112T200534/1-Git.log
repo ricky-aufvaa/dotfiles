@@ -1,0 +1,7 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ricky
+> git status -z -u
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/ricky/.config/i3status' failed; ex=Canceled: Canceled
