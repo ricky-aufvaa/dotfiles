@@ -228,12 +228,22 @@ gaps outer 1
 
 # dropterm with alacritty (mod+i hide/show)
 
-exec_always --no-startup-id alacritty --class dropdown2 &
+exec_always --no-startup-id kitty --class dropdown2 &
 
 bindsym $mod+i [instance="dropdown2"] scratchpad show, move position center
 
 for_window [instance="dropdown2"] floating enable, resize set 700 350, move scratchpad
 
+bindsym $mod+b [instance="qutebrowser"] scratchpad show, move position center
+for_window [instance="qutebrowser"] floating enable, resize set 400 400, move scratchpad
+exec_always  qutebrowser
+#for_window [class="bg_browser"] floating enable
+#for_window [class="bg_browser"] move position 277 156
+#for_window [class="bg_browser"] resize set 800 500
+#for_window [class="bg_browser"] move scratchpad
+#for_window [class="bg_browser"] border pixel 3
+#exec_always --no-startup-id firefox -P bg_browser --no-remote --class="bg_browser" &
+#bindsym $mod+b [class="bg_browser"] scratchpad show
 
 exec_always --no-startup-id python /home/ricky/repos/i3-autosplit/i3-autosplit.py
 

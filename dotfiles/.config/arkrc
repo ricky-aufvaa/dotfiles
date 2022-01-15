@@ -1,17 +1,21 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/Downloads/firefox css/,$HOME/Downloads/
+DirHistory[$e]=$HOME/Downloads/firefox/chrome/,$HOME/Downloads/firefox css/,$HOME/Downloads/
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME/Downloads/firefox css
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Downloads/firefox css/
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Downloads/firefox/chrome/
 detailViewIconSize=16
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAApoAAAEhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAbYAAAKRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 eDP-1 Height 1366x768=339
 eDP-1 Width 1366x768=666
 eDP-1 XPosition 1366x768=689
 eDP-1 YPosition 1366x768=418
-splitterSizes=441,221
+eDP1 Height 1366x768=707
+eDP1 Width 1366x768=438
+eDP1 XPosition 1366x768=917
+eDP1 YPosition 1366x768=29
+splitterSizes=289,145

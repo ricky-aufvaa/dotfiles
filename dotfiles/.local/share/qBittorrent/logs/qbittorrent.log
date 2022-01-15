@@ -1,0 +1,172 @@
+(N) 2022-01-14T00:16:41 - qBittorrent v4.4.0 started
+(N) 2022-01-14T00:16:41 - Using config directory: /home/ricky/.config/qBittorrent
+(I) 2022-01-14T00:16:45 - Trying to listen on: 0.0.0.0:16141,[::]:16141
+(N) 2022-01-14T00:16:45 - Peer ID: -qB4400-
+(N) 2022-01-14T00:16:45 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-01-14T00:16:45 - DHT support [ON]
+(I) 2022-01-14T00:16:45 - Local Peer Discovery support [ON]
+(I) 2022-01-14T00:16:45 - PeX support [ON]
+(I) 2022-01-14T00:16:45 - Anonymous mode [OFF]
+(I) 2022-01-14T00:16:45 - Encryption support [ON]
+(I) 2022-01-14T00:16:45 - UPnP / NAT-PMP support [ON]
+(W) 2022-01-14T00:16:45 - Couldn't load IP geolocation database. Reason: No such file or directory
+(I) 2022-01-14T00:16:45 - Successfully listening on IP: 127.0.0.1, port: TCP/16141
+(I) 2022-01-14T00:16:45 - Successfully listening on IP: 127.0.0.1, port: UTP/16141
+(I) 2022-01-14T00:16:45 - Successfully listening on IP: 192.168.29.110, port: TCP/16141
+(I) 2022-01-14T00:16:45 - Successfully listening on IP: 192.168.29.110, port: UTP/16141
+(I) 2022-01-14T00:16:45 - Successfully listening on IP: ::1, port: TCP/16141
+(I) 2022-01-14T00:16:45 - Successfully listening on IP: ::1, port: UTP/16141
+(I) 2022-01-14T00:16:45 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: TCP/16141
+(I) 2022-01-14T00:16:45 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: UTP/16141
+(I) 2022-01-14T00:16:45 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: TCP/16141
+(I) 2022-01-14T00:16:45 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: UTP/16141
+(I) 2022-01-14T00:16:45 - Detected external IP: 49.37.69.72
+(I) 2022-01-14T00:16:45 - Detected external IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d
+(I) 2022-01-14T00:16:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 06:41:53 2022.
+(I) 2022-01-14T00:16:49 - Successfully updated IP geolocation database.
+(N) 2022-01-14T00:18:24 - qBittorrent v4.4.0 started
+(N) 2022-01-14T00:18:24 - Using config directory: /home/ricky/.config/qBittorrent
+(I) 2022-01-14T00:18:24 - Trying to listen on: 0.0.0.0:16141,[::]:16141
+(N) 2022-01-14T00:18:24 - Peer ID: -qB4400-
+(N) 2022-01-14T00:18:24 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-01-14T00:18:24 - DHT support [ON]
+(I) 2022-01-14T00:18:24 - Local Peer Discovery support [ON]
+(I) 2022-01-14T00:18:24 - PeX support [ON]
+(I) 2022-01-14T00:18:24 - Anonymous mode [OFF]
+(I) 2022-01-14T00:18:24 - Encryption support [ON]
+(I) 2022-01-14T00:18:24 - UPnP / NAT-PMP support [ON]
+(I) 2022-01-14T00:18:24 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 06:41:53 2022.
+(I) 2022-01-14T00:18:24 - Successfully listening on IP: 127.0.0.1, port: TCP/16141
+(I) 2022-01-14T00:18:24 - Successfully listening on IP: 127.0.0.1, port: UTP/16141
+(I) 2022-01-14T00:18:24 - Successfully listening on IP: 192.168.29.110, port: TCP/16141
+(I) 2022-01-14T00:18:24 - Successfully listening on IP: 192.168.29.110, port: UTP/16141
+(I) 2022-01-14T00:18:24 - Successfully listening on IP: ::1, port: TCP/16141
+(I) 2022-01-14T00:18:24 - Successfully listening on IP: ::1, port: UTP/16141
+(I) 2022-01-14T00:18:24 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: TCP/16141
+(I) 2022-01-14T00:18:24 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: UTP/16141
+(I) 2022-01-14T00:18:24 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: TCP/16141
+(I) 2022-01-14T00:18:24 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: UTP/16141
+(I) 2022-01-14T00:18:24 - Detected external IP: 49.37.69.72
+(I) 2022-01-14T00:18:24 - Detected external IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d
+(C) 2022-01-14T00:21:00 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(C) 2022-01-14T00:21:00 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(I) 2022-01-14T01:07:47 - UPnP / NAT-PMP support [OFF]
+(N) 2022-01-14T01:51:33 - qBittorrent v4.4.0 started
+(N) 2022-01-14T01:51:33 - Using config directory: /home/ricky/.config/qBittorrent
+(I) 2022-01-14T01:51:33 - Trying to listen on: 0.0.0.0:16141,[::]:16141
+(N) 2022-01-14T01:51:34 - Peer ID: -qB4400-
+(N) 2022-01-14T01:51:34 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-01-14T01:51:34 - DHT support [ON]
+(I) 2022-01-14T01:51:34 - Local Peer Discovery support [ON]
+(I) 2022-01-14T01:51:34 - PeX support [ON]
+(I) 2022-01-14T01:51:34 - Anonymous mode [OFF]
+(I) 2022-01-14T01:51:34 - Encryption support [ON]
+(I) 2022-01-14T01:51:34 - UPnP / NAT-PMP support [ON]
+(I) 2022-01-14T01:51:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 06:41:53 2022.
+(I) 2022-01-14T01:51:35 - Successfully listening on IP: 127.0.0.1, port: TCP/16141
+(I) 2022-01-14T01:51:35 - Successfully listening on IP: 127.0.0.1, port: UTP/16141
+(I) 2022-01-14T01:51:35 - Successfully listening on IP: 192.168.29.110, port: TCP/16141
+(I) 2022-01-14T01:51:35 - Successfully listening on IP: 192.168.29.110, port: UTP/16141
+(I) 2022-01-14T01:51:35 - Successfully listening on IP: ::1, port: TCP/16141
+(I) 2022-01-14T01:51:35 - Successfully listening on IP: ::1, port: UTP/16141
+(I) 2022-01-14T01:51:35 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: TCP/16141
+(I) 2022-01-14T01:51:35 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: UTP/16141
+(I) 2022-01-14T01:51:35 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: TCP/16141
+(I) 2022-01-14T01:51:35 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: UTP/16141
+(I) 2022-01-14T01:51:35 - Detected external IP: 49.37.69.72
+(I) 2022-01-14T01:51:35 - Detected external IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d
+(N) 2022-01-14T01:52:24 - 'Nayak (1966) (Satyajit Ray) 720p BDRip x264 AC3 Encoded By-RishiBhai(RDLinks)' added to download list.
+(N) 2022-01-14T01:52:24 - Couldn't enqueue move of "Nayak (1966) (Satyajit Ray) 720p BDRip x264 AC3 Encoded By-RishiBhai(RDLinks)" from "/home/ricky/Downloads" to "/home/ricky/Downloads". Both paths point to the same location.
+(C) 2022-01-14T01:54:10 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(C) 2022-01-14T01:54:10 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(I) 2022-01-14T02:26:19 - UPnP / NAT-PMP support [OFF]
+(N) 2022-01-14T22:38:29 - qBittorrent v4.4.0 started
+(N) 2022-01-14T22:38:29 - Using config directory: /home/ricky/.config/qBittorrent
+(I) 2022-01-14T22:38:29 - Trying to listen on: 0.0.0.0:16141,[::]:16141
+(N) 2022-01-14T22:38:29 - Peer ID: -qB4400-
+(N) 2022-01-14T22:38:29 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-01-14T22:38:29 - DHT support [ON]
+(I) 2022-01-14T22:38:29 - Local Peer Discovery support [ON]
+(I) 2022-01-14T22:38:29 - PeX support [ON]
+(I) 2022-01-14T22:38:29 - Anonymous mode [OFF]
+(I) 2022-01-14T22:38:29 - Encryption support [ON]
+(I) 2022-01-14T22:38:29 - UPnP / NAT-PMP support [ON]
+(I) 2022-01-14T22:38:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 06:41:53 2022.
+(I) 2022-01-14T22:38:30 - Successfully listening on IP: 127.0.0.1, port: TCP/16141
+(I) 2022-01-14T22:38:30 - Successfully listening on IP: 127.0.0.1, port: UTP/16141
+(I) 2022-01-14T22:38:30 - Successfully listening on IP: 192.168.29.110, port: TCP/16141
+(I) 2022-01-14T22:38:30 - Successfully listening on IP: 192.168.29.110, port: UTP/16141
+(I) 2022-01-14T22:38:30 - Successfully listening on IP: ::1, port: TCP/16141
+(I) 2022-01-14T22:38:30 - Successfully listening on IP: ::1, port: UTP/16141
+(I) 2022-01-14T22:38:30 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: TCP/16141
+(I) 2022-01-14T22:38:30 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: UTP/16141
+(I) 2022-01-14T22:38:30 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: TCP/16141
+(I) 2022-01-14T22:38:30 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: UTP/16141
+(I) 2022-01-14T22:38:30 - Detected external IP: 49.37.65.193
+(N) 2022-01-14T22:38:30 - 'Nayak (1966) (Satyajit Ray) 720p BDRip x264 AC3 Encoded By-RishiBhai(RDLinks)' restored.
+(N) 2022-01-14T22:38:30 - Couldn't enqueue move of "Nayak (1966) (Satyajit Ray) 720p BDRip x264 AC3 Encoded By-RishiBhai(RDLinks)" from "/home/ricky/Downloads" to "/home/ricky/Downloads". Both paths point to the same location.
+(I) 2022-01-14T22:38:31 - Detected external IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d
+(C) 2022-01-14T22:41:05 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(C) 2022-01-14T22:41:05 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(N) 2022-01-14T23:11:46 - Couldn't enqueue move of "Nayak (1966) (Satyajit Ray) 720p BDRip x264 AC3 Encoded By-RishiBhai(RDLinks)" from "/home/ricky/Downloads" to "/home/ricky/Downloads". Both paths point to the same location.
+(N) 2022-01-14T23:14:04 - 'TTC_-_Great_Ideas_of_Psychology' added to download list.
+(N) 2022-01-14T23:14:04 - Couldn't enqueue move of "TTC_-_Great_Ideas_of_Psychology" from "/home/ricky/Downloads" to "/home/ricky/Downloads". Both paths point to the same location.
+(I) 2022-01-15T01:05:42 - UPnP / NAT-PMP support [OFF]
+(N) 2022-01-15T11:35:37 - qBittorrent v4.4.0 started
+(N) 2022-01-15T11:35:37 - Using config directory: /home/ricky/.config/qBittorrent
+(I) 2022-01-15T11:35:38 - Trying to listen on: 0.0.0.0:16141,[::]:16141
+(N) 2022-01-15T11:35:38 - Peer ID: -qB4400-
+(N) 2022-01-15T11:35:38 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-01-15T11:35:38 - DHT support [ON]
+(I) 2022-01-15T11:35:38 - Local Peer Discovery support [ON]
+(I) 2022-01-15T11:35:38 - PeX support [ON]
+(I) 2022-01-15T11:35:38 - Anonymous mode [OFF]
+(I) 2022-01-15T11:35:38 - Encryption support [ON]
+(I) 2022-01-15T11:35:38 - UPnP / NAT-PMP support [ON]
+(I) 2022-01-15T11:35:38 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 06:41:53 2022.
+(I) 2022-01-15T11:35:39 - Successfully listening on IP: 127.0.0.1, port: TCP/16141
+(I) 2022-01-15T11:35:39 - Successfully listening on IP: 127.0.0.1, port: UTP/16141
+(I) 2022-01-15T11:35:39 - Successfully listening on IP: 192.168.29.110, port: TCP/16141
+(I) 2022-01-15T11:35:39 - Successfully listening on IP: 192.168.29.110, port: UTP/16141
+(I) 2022-01-15T11:35:39 - Successfully listening on IP: ::1, port: TCP/16141
+(I) 2022-01-15T11:35:39 - Successfully listening on IP: ::1, port: UTP/16141
+(I) 2022-01-15T11:35:39 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: TCP/16141
+(I) 2022-01-15T11:35:39 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: UTP/16141
+(I) 2022-01-15T11:35:39 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: TCP/16141
+(I) 2022-01-15T11:35:39 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: UTP/16141
+(I) 2022-01-15T11:35:39 - Detected external IP: 49.37.69.72
+(N) 2022-01-15T11:35:39 - 'Nayak (1966) (Satyajit Ray) 720p BDRip x264 AC3 Encoded By-RishiBhai(RDLinks)' restored.
+(N) 2022-01-15T11:35:39 - Couldn't enqueue move of "Nayak (1966) (Satyajit Ray) 720p BDRip x264 AC3 Encoded By-RishiBhai(RDLinks)" from "/home/ricky/Downloads" to "/home/ricky/Downloads". Both paths point to the same location.
+(I) 2022-01-15T11:35:39 - Detected external IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d
+(N) 2022-01-15T11:35:39 - 'TTC_-_Great_Ideas_of_Psychology' restored.
+(N) 2022-01-15T11:35:39 - Couldn't enqueue move of "TTC_-_Great_Ideas_of_Psychology" from "/home/ricky/Downloads" to "/home/ricky/Downloads". Both paths point to the same location.
+(C) 2022-01-15T11:38:14 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(C) 2022-01-15T11:38:14 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(N) 2022-01-15T12:03:37 - Couldn't enqueue move of "TTC_-_Great_Ideas_of_Psychology" from "/home/ricky/Downloads" to "/home/ricky/Downloads". Both paths point to the same location.
+(I) 2022-01-15T14:41:31 - Successfully listening on IP: 192.168.29.110, port: TCP/16141
+(I) 2022-01-15T14:41:31 - Successfully listening on IP: 192.168.29.110, port: UTP/16141
+(I) 2022-01-15T14:41:33 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: TCP/16141
+(I) 2022-01-15T14:41:33 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: UTP/16141
+(I) 2022-01-15T14:41:37 - Successfully listening on IP: 192.168.29.110, port: TCP/16141
+(I) 2022-01-15T14:41:37 - Successfully listening on IP: 192.168.29.110, port: UTP/16141
+(I) 2022-01-15T14:41:37 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: TCP/16141
+(I) 2022-01-15T14:41:37 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: UTP/16141
+(I) 2022-01-15T14:41:37 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: TCP/16141
+(I) 2022-01-15T14:41:37 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: UTP/16141
+(I) 2022-01-15T14:41:38 - Detected external IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d
+(C) 2022-01-15T14:44:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(C) 2022-01-15T14:44:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(I) 2022-01-15T14:56:16 - Detected external IP: 49.37.66.185
+(N) 2022-01-15T14:56:18 - 'TTC_-_Everyday_Engineering' added to download list.
+(N) 2022-01-15T14:56:18 - Couldn't enqueue move of "TTC_-_Everyday_Engineering" from "/home/ricky/Downloads" to "/home/ricky/Downloads". Both paths point to the same location.
+(I) 2022-01-15T16:54:40 - Successfully listening on IP: 192.168.29.110, port: TCP/16141
+(I) 2022-01-15T16:54:40 - Successfully listening on IP: 192.168.29.110, port: UTP/16141
+(I) 2022-01-15T16:54:41 - Detected external IP: 49.37.67.145
+(I) 2022-01-15T16:54:41 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: TCP/16141
+(I) 2022-01-15T16:54:41 - Successfully listening on IP: fe80::4af1:f5c9:18d6:96ea%wlan0, port: UTP/16141
+(I) 2022-01-15T16:54:43 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: TCP/16141
+(I) 2022-01-15T16:54:43 - Successfully listening on IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d, port: UTP/16141
+(I) 2022-01-15T16:54:44 - Detected external IP: 2405:201:a407:303d:9e7d:1914:12d1:d05d
+(C) 2022-01-15T16:57:16 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(C) 2022-01-15T16:57:16 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.29.110]: no router found
+(N) 2022-01-15T17:07:20 - Couldn't enqueue move of "TTC_-_Everyday_Engineering" from "/home/ricky/Downloads" to "/home/ricky/Downloads". Both paths point to the same location.

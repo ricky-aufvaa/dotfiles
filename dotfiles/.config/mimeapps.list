@@ -1,4 +1,4 @@
 [Added Associations]
 text/plain=code-oss.desktop;vim.desktop;
-application/x-yaml=code-oss.desktop;vim.desktop;
+application/x-yaml=vim.desktop;code-oss.desktop;
 application/x-shellscript=code-oss.desktop;

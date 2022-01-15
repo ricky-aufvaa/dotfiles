@@ -83,22 +83,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ricky/Downloads/Firefox.Halo.v5.1.0.zip" added="2022-01-11T20:38:00.699173Z" modified="2022-01-11T20:38:00.699182Z" visited="2022-01-11T20:38:00.699174Z">
+  <bookmark href="file:///home/ricky/Downloads/Firefox.Halo.v5.1.0.zip" added="2022-01-11T20:38:00.699173Z" modified="2022-01-13T18:20:04.700464Z" visited="2022-01-11T20:38:00.699174Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/zip"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-11T20:38:00.699178Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-13T18:20:04.700460Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ricky/VS%20code" added="2022-01-12T05:52:29.245808Z" modified="2022-01-12T05:52:29.245819Z" visited="2022-01-12T05:52:29.245810Z">
+  <bookmark href="file:///home/ricky/VS%20code" added="2022-01-12T05:52:29.245808Z" modified="2022-01-14T17:16:41.926593Z" visited="2022-01-12T05:52:29.245810Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2022-01-12T05:52:29.245814Z" count="1"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2022-01-14T17:16:41.926590Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -639,6 +639,36 @@
         <mime:mime-type type="application/x-yaml"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T17:44:13.299107Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ricky/Downloads/hipster-products-backend-spec.yaml" added="2022-01-15T06:37:12.222961Z" modified="2022-01-15T06:39:45.423262Z" visited="2022-01-15T06:37:12.222963Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-15T06:39:45.423257Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ricky/Downloads/Hipster-Products-API_With_CORS_Config.zip" added="2022-01-15T07:24:20.731353Z" modified="2022-01-15T07:25:21.745292Z" visited="2022-01-15T07:24:20.731356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-15T07:25:21.745286Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ricky/Downloads/hipster-products-API-spec.yaml" added="2022-01-15T07:26:12.241543Z" modified="2022-01-15T07:31:27.053061Z" visited="2022-01-15T07:26:12.241545Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-15T07:31:27.053054Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

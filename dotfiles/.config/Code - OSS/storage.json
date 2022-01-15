@@ -6,6 +6,27 @@
                 "folderUri": "file:///home/ricky/VS%20code"
             },
             {
+                "fileUri": "file:///home/ricky/Downloads/hipster-products-API-spec.yaml"
+            },
+            {
+                "fileUri": "file:///home/ricky/.mozilla/firefox/j0o2tf7c.default-release/userChrome.css"
+            },
+            {
+                "fileUri": "file:///home/ricky/.mozilla/firefox/j0o2tf7c.default-release/userContent.css"
+            },
+            {
+                "fileUri": "file:///home/ricky/.cache/notflix/magnet.txt"
+            },
+            {
+                "fileUri": "file:///home/ricky/.cache/notflix/text.txt"
+            },
+            {
+                "fileUri": "file:///usr/local/bin/notflix"
+            },
+            {
+                "fileUri": "file:///home/ricky/.config/i3status/config"
+            },
+            {
                 "fileUri": "file:///home/ricky/.config/alacritty/alacritty.yml"
             },
             {
@@ -25,9 +46,6 @@
             },
             {
                 "fileUri": "file:///home/ricky/.config/i3status/configold"
-            },
-            {
-                "fileUri": "file:///home/ricky/.config/i3status/config"
             },
             {
                 "fileUri": "file:///home/ricky/.zshrc"
@@ -100,6 +118,83 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/ricky/Downloads/hipster-products-API-spec.yaml",
+                                        "path": "/home/ricky/Downloads/hipster-products-API-spec.yaml",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/hipster-products-API-spec.yaml"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/.mozilla/firefox/j0o2tf7c.default-release/userChrome.css",
+                                        "path": "/home/ricky/.mozilla/firefox/j0o2tf7c.default-release/userChrome.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.mozilla/firefox/j0o2tf7c.default-release/userChrome.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/.mozilla/firefox/j0o2tf7c.default-release/userContent.css",
+                                        "path": "/home/ricky/.mozilla/firefox/j0o2tf7c.default-release/userContent.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.mozilla/firefox/j0o2tf7c.default-release/userContent.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/.cache/notflix/magnet.txt",
+                                        "path": "/home/ricky/.cache/notflix/magnet.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.cache/notflix/magnet.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/.cache/notflix/text.txt",
+                                        "path": "/home/ricky/.cache/notflix/text.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.cache/notflix/text.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///usr/local/bin/notflix",
+                                        "path": "/usr/local/bin/notflix",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/usr/local/bin/notflix"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ricky/.config/i3status/config",
+                                        "path": "/home/ricky/.config/i3status/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/i3status/config"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/ricky/.config/alacritty/alacritty.yml",
                                         "path": "/home/ricky/.config/alacritty/alacritty.yml",
                                         "scheme": "file"
@@ -128,83 +223,6 @@
                                     },
                                     "enabled": true,
                                     "label": "/tmp/mozilla_ricky0/xinitrc"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ricky/Downloads/config",
-                                        "path": "/home/ricky/Downloads/config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/config"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ricky/.config/alacritty/alacritty.conf",
-                                        "path": "/home/ricky/.config/alacritty/alacritty.conf",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/alacritty/alacritty.conf"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ricky/alacritty/alacritty.yml",
-                                        "path": "/home/ricky/alacritty/alacritty.yml",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/alacritty/alacritty.yml"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ricky/.config/i3status/configold",
-                                        "path": "/home/ricky/.config/i3status/configold",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/i3status/configold"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ricky/.config/i3status/config",
-                                        "path": "/home/ricky/.config/i3status/config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/i3status/config"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ricky/.zshrc",
-                                        "path": "/home/ricky/.zshrc",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.zshrc"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/ricky/.config/i3blocks/i3blocks.conf",
-                                        "path": "/home/ricky/.config/i3blocks/i3blocks.conf",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/i3blocks/i3blocks.conf"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1593,19 +1611,18 @@
             }
         }
     },
-    "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "theme": "hc-black",
+    "themeBackground": "#000000",
     "windowSplash": {
-        "baseTheme": "vs-dark",
+        "baseTheme": "hc-black",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#1e1e1e",
-            "editorBackground": "#1e1e1e",
-            "titleBarBackground": "#3c3c3c",
-            "activityBarBackground": "#333333",
-            "sideBarBackground": "#252526",
-            "statusBarBackground": "#007acc",
-            "statusBarNoFolderBackground": "#68217a"
+            "foreground": "#ffffff",
+            "background": "#000000",
+            "editorBackground": "#000000",
+            "titleBarBackground": "#000000",
+            "activityBarBackground": "#000000",
+            "sideBarBackground": "#000000",
+            "windowBorder": "#6fc3df"
         },
         "layoutInfo": {
             "sideBarSide": "left",
@@ -1619,7 +1636,7 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/ricky/.config/Code - OSS/Backups/1642009516090",
+            "backupPath": "/home/ricky/.config/Code - OSS/Backups/1642231686369",
             "uiState": {
                 "mode": 1,
                 "x": 2,

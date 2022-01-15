@@ -1,0 +1,11 @@
+#windows 10 in grub
+
+#fix screentearing(first install intel driver)
+
+
+#no locale support for dmenu(error)
+echo "LC_ALL=en_IN.UTF-8" | sudo tee -a /etc/environment
+echo "LANG=en_IN.UTF-8" | sudo tee -a /etc/locale.conf
+sudo locale-gen
+
+

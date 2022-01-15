@@ -1,0 +1,29 @@
+[2022-01-14 22:20:38.821] [exthost] [info] Extension host with pid 6863 started
+[2022-01-14 22:20:39.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-01-14 22:20:39.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:css'
+[2022-01-14 22:20:39.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-14 22:20:39.773] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-14 22:20:39.860] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2022-01-14 22:20:45.829] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-14 22:20:46.085] [exthost] [info] Eager extensions activated
+[2022-01-14 22:20:46.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 22:44:25.124] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-14 22:44:26.134] [exthost] [info] Extension host with pid 6863 exiting with code 0
+[2022-01-14 22:44:30.148] [exthost] [info] Extension host with pid 7412 started
+[2022-01-14 22:44:30.148] [exthost] [info] Skipping acquiring lock for /home/ricky/.config/Code - OSS/User/workspaceStorage/64b1399ea1e1b578488d8d9478397487.
+[2022-01-14 22:44:30.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-14 22:44:30.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-14 22:44:30.337] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2022-01-14 22:44:30.833] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-14 22:44:30.846] [exthost] [info] Eager extensions activated
+[2022-01-14 22:44:30.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 22:44:40.904] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-14 22:44:41.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-14 22:44:41.331] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-14 22:45:16.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-14 22:45:17.027] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-14 22:46:46.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-14 22:47:48.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-14 22:47:48.294] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-14 23:56:42.039] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-14 23:56:43.117] [exthost] [info] Extension host with pid 7412 exiting with code 0

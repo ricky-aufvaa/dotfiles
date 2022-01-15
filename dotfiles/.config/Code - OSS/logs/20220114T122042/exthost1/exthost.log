@@ -1,0 +1,11 @@
+[2022-01-14 12:20:55.406] [exthost] [info] Extension host with pid 3063 started
+[2022-01-14 12:20:55.617] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-01-14 12:20:55.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:css'
+[2022-01-14 12:20:55.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-14 12:20:56.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-14 12:20:56.208] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2022-01-14 12:20:58.773] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-14 12:20:58.820] [exthost] [info] Eager extensions activated
+[2022-01-14 12:20:58.824] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-14 12:21:35.718] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-14 12:21:36.743] [exthost] [info] Extension host with pid 3063 exiting with code 0

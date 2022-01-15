@@ -1,0 +1,5 @@
+2022/01/14-13:48:57.932 2fb7 Reusing MANIFEST /home/ricky/.local/share/qutebrowser/webengine/Local Storage/leveldb/MANIFEST-000001
+2022/01/14-13:48:57.932 2fb7 Recovering log #3
+2022/01/14-13:48:57.933 2fb7 Level-0 table #3: started
+2022/01/14-13:48:58.004 2fb7 Level-0 table #3: 85666 bytes OK
+2022/01/14-13:48:58.043 2fb7 Delete type=0 #3
